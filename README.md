@@ -1,1 +1,1 @@
-# Power-BI-Dashboard-for-Blinkit---Last-Minute-Grocery-Delivery-Service
+Developed a comprehensive Power BI dashboard for Blinkit, a leading last-minute grocery delivery service in India. The dashboard provides valuable insights into various business metrics, aiding stakeholders in making data-driven decisions to optimize performance and enhance customer experience.
